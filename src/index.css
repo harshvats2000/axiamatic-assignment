@@ -22,7 +22,7 @@
 
 .empty-card {
   padding: 70px 60px;
-  border: 1px solid rgb(245, 245, 245);
+  border: 1px solid #ecf3ff;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   display: grid;
   place-items: center;
